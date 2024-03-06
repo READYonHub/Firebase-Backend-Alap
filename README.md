@@ -1,1 +1,2 @@
-# Firebase-Backend-Alap
+# firebase-basic-course
+Alapozó tanfolyam a Fireabase szolgálatatáshoz.
